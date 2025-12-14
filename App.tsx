@@ -7,7 +7,7 @@ import { evaluateTaskState } from './services/taskEngine';
 const MOCK_TASKS: Task[] = [
   {
     id: '1',
-    title: 'Daily Training',
+    title: 'Daily Difficult Training',
     description: 'Complete a set of physical exercises. Mutually exclusive choices included.',
     status: TaskStatus.IDLE,
     elapsedTime: 0,
