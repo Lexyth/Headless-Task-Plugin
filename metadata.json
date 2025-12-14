@@ -1,0 +1,5 @@
+{
+  "name": "QuestEngine",
+  "description": "A powerful, headless-capable task management system featuring complex requirement trees, XOR logic, thresholds, and AI-powered task generation.",
+  "requestFramePermissions": []
+}
